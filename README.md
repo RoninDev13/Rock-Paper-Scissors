@@ -1,6 +1,6 @@
-# Stone, Paper, Scissors Game (C++)
+# Rock, Paper, Scissors Game (C++)
 
-A classic interactive command-line **Stone, Paper, Scissors** game written in C++ for Windows. Play multiple rounds against the computer, view round-by-round results with visual feedback, and track your overall game statistics.
+A classic interactive command-line **Rock, Paper, Scissors** game written in C++ for Windows. Play multiple rounds against the computer, view round-by-round results with visual feedback, and track your overall game statistics.
 
 ---
 
