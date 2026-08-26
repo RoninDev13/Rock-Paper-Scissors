@@ -29,3 +29,15 @@ Once all rounds finish, the console displays a complete match summary detailing:
 ### Step 5: Play Again or Exit
 * Enter `1` to **Restart** a fresh game session.
 * Enter `2` to **Exit** the program.
+
+---
+
+# 📺 Video Showcase & Code Walkthrough
+
+Watch the full project showcase and code explanation on YouTube or view the preview below:
+
+[![▶️ Watch on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tWf8dvCem-w)
+
+<a href="https://youtu.be/tWf8dvCem-w">
+  <img src="https://img.youtube.com/vi/tWf8dvCem-w/maxresdefault.jpg" alt="Rock Paper Scissors Game C++ Showcase" width="100%">
+</a>
